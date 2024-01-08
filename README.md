@@ -31,4 +31,4 @@ Follow these steps to get started with the project:
    git clone https://github.com/Abdelhadi-ezziat/complete_cicd_project.git
    cd complete-cicd-project
 
-**Inspired by Dinesh Mistry's DevOps Projects**
+**This project is inspired by Dinesh Mistry's DevOps end-2-end pipeline**
