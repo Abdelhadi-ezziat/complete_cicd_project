@@ -4,6 +4,13 @@
 
 Welcome to the Complete CI/CD Project! This project demonstrates a comprehensive Continuous Integration and Continuous Deployment (CI/CD) pipeline for a small application. By leveraging popular tools such as Jenkins, Maven, SonarQube, Docker, Kubernetes, and ArgoCD, this project automates the build, test, and deployment processes.
 
+## STATUS: offline
+
+## How yo use?
+create virtual machines ...
+
+## How yo contribute?
+
 ## Features
 
 - **Jenkins Integration:** Automate builds triggered by GitHub webhooks.
